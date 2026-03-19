@@ -316,15 +316,4 @@ This project is for educational and research purposes.
 
 ---
 
-## Author
 
-Project Lead
-
-Sahana P
-
-Team Members
-
-* Sahana P
-* Gullanki Vara Naga Sai Sree
-* Subhadip Sasmal
-* Peruri Sireesha
